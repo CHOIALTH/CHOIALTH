@@ -13,7 +13,6 @@
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
  
- :a
  
  <h2>🛠Tools🛠</h2>
  
