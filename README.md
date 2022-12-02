@@ -13,6 +13,8 @@
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
  
+ :a
+ 
  <h2>🛠Tools🛠</h2>
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
@@ -20,10 +22,16 @@
  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
+ 
+ <h2>📬Contacts </h2>
+ <a href="mailto:dnjswns4545@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:dnjswns4545@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+ <a href="https://choi-alth.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ 
 <!--  <h2>📬Contacts </h2>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://choi-alth.tistory.com/)](https://choi-alth.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjswns4545@gmail.com)](mailto:dnjswns4545@gmail.com) 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnjswns4545@naver.com)](mailto:dnjswns4545@naver.com) -->
+ 
  
 </div>
 
