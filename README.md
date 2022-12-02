@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20WONJUN&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+ 
 
 <div align=center>
 
@@ -26,6 +27,10 @@
  <a href="mailto:dnjswns4545@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="mailto:dnjswns4545@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
  <a href="https://choi-alth.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ 
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOIALTH&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br>
+ ![CHOIALTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIALTH&show_icons=true&theme=radical)
+
  
 <!--  <h2>📬Contacts </h2>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjswns4545@gmail.com)](mailto:dnjswns4545@gmail.com) 
