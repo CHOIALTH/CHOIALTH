@@ -3,7 +3,7 @@
 
 <div align=center>
 
- <h3>🛠Tech Stack🛠</h3>
+ <h2>⚔️Tech Stack⚔️</h2>
  
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
@@ -12,7 +12,23 @@
  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)<br>
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+ 
+ <h2>🛠Tools🛠</h2>
+ 
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+ ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+ ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+
+<!--  <h2>📬Contacts </h2>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://choi-alth.tistory.com/)](https://choi-alth.tistory.com/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjswns4545@gmail.com)](mailto:dnjswns4545@gmail.com) 
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnjswns4545@naver.com)](mailto:dnjswns4545@naver.com) -->
+ 
 </div>
+
+
+
 <!--
 **CHOIALTH/CHOIALTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
