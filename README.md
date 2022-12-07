@@ -30,7 +30,8 @@
  
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOIALTH&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br>
  ![CHOIALTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIALTH&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choialth&layout=compact&theme=Most%20Used%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 <!--  <h2>📬Contacts </h2>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjswns4545@gmail.com)](mailto:dnjswns4545@gmail.com) 
