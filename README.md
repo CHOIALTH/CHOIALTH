@@ -11,7 +11,9 @@
  ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)<br>
- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
+ ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+ ![express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) 
+ ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
  
  
@@ -29,8 +31,9 @@
  <a href="https://choi-alth.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
  
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOIALTH&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br>
- ![CHOIALTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIALTH&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIALTH&langs_count=5&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIALTH&langs_count=5&theme=tokyonight)
+ ![CHOIALTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIALTH&show_icons=true&theme=radical)
+
 
  
  
