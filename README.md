@@ -15,6 +15,7 @@
  ![express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) 
  ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+ ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
  
  
  <h2>🛠Tools🛠</h2>
