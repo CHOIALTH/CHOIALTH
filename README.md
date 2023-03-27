@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20WONJUN&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
- 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%2OWONJUN%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=WEB%20BackEnd%20Developer%20&descAlignY=51&descAlign=62)
 
 <div align=center>
+ 
 
  <h2>⚔️Tech Stack⚔️</h2>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
