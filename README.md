@@ -1,5 +1,5 @@
 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%2OWONJUN%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=WEB%20BackEnd%20Developer%20&descAlignY=51&descAlign=62)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%2O WONJUN%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=WEB%20BackEnd%20Developer%20&descAlignY=51&descAlign=62)
 
 <div align=center>
  
