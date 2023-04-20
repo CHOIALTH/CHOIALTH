@@ -16,7 +16,7 @@
 
  
  <h3>Tech that I've used at least once</h3>
- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+ <img src="https://img.shields.io/badge/AMAZONWEBSERVICE-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
  <img src="https://img.shields.io/badge/NAVERCLOUD-23232F3E?style=for-the-badge&logo=naver&logoColor=white"><br>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
