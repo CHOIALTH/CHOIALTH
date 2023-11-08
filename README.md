@@ -3,7 +3,7 @@
 
 <div align=center>
  
- <h3>꾸준한 성장을 통해 훌륭한 개발자 동료가 되길 꿈꾸는 주니어 개발자 최원준입니다.</h3>
+ <h3>꾸준한 노력과 성장으로 든든한 개발자 동료가 되길 꿈꾸는 주니어 개발자 최원준입니다.</h3>
 
  <h2>⚔️Tech Stack⚔️</h2>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
